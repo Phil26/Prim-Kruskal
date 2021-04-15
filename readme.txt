@@ -1,3 +1,6 @@
+Mentiune: fisierele au fost incarcate in forma arhivata pentru o mai buna organizare a continutului acestora
+
+
 Structura proiectului:
 
 * arhiva "c_homework_codes" :  contine implementarile in limbajul C ale celoi doi algoritmi alesi pentru rezolvarea problemei, generatorul de date, precum si datele de intrare si iesire pentru cei doi algortimi (folder "data");
@@ -7,3 +10,5 @@ Structura proiectului:
 * document "raport_tehnic" - contine fisierul PDF-ul aferent raportului tehnic, precum si fisierul sursa .tex al acestuia; fisierul contine si sursa raportului tehnic generata de editorul online Overleaf; 
 
  ** Pentru rularea unui program in limbajul C, respectiv in limbajul Python, se vor introduce la consola numarul de teste care se doresc efectuate(in cazul algoritmului lui Prim, atat in limbajul C cat si in limbajul Python, s-au efectuat teste pe maxim 10 seturi de date; in cazul algoritmului lui Kruskal, numarul de teste efectuate in limbajul C este de maxim 5, datorita unor factori specificati in fisierul .txt atasat folderului aferent).Rezultatele pot fi vizualizate in fisierele .out atasate folder-ului fiecarui algoritm, respectiv, fiecarei implementari. 
+ 
+
