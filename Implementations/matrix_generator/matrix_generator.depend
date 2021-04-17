@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1587212018 source:c:\users\filip\desktop\c programs\matrix_generator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1587396702 source:c:\users\filip\desktop\home homework\matrix_generator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1587405827 source:c:\users\filip\desktop\matrix_generator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1588406455 source:c:\users\filip\desktop\c homework codes\matrix_generator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
