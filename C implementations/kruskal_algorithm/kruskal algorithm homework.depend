@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1587243648 source:c:\users\filip\desktop\home homework\kruskal algorithm homework\graph.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+
+1587385240 c:\users\filip\desktop\home homework\kruskal algorithm homework\graph.h
+	<stdio.h>
+	<stdlib.h>
+
+1587402650 source:c:\users\filip\desktop\kruskal algorithm homework\graph.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+
+1587473698 c:\users\filip\desktop\kruskal algorithm homework\graph.h
+	<stdio.h>
+	<stdlib.h>
+
+1587404878 source:c:\users\filip\desktop\kruskal algorithm homework\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.c"
+	"graph.h"
+
+1587402650 c:\users\filip\desktop\kruskal algorithm homework\graph.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+
+1587399050 source:c:\users\filip\desktop\c homework codes\kruskal algorithm homework\graph.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+
+1587470098 c:\users\filip\desktop\c homework codes\kruskal algorithm homework\graph.h
+	<stdio.h>
+	<stdlib.h>
+
+1588422999 source:c:\users\filip\desktop\c homework codes\kruskal algorithm homework\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.c"
+	"graph.h"
+	<time.h>
+
+1587399050 c:\users\filip\desktop\c homework codes\kruskal algorithm homework\graph.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+
+1587399050 source:c:\users\filip\desktop\c homework codes\kruskal_algorithm\graph.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+
+1587470098 c:\users\filip\desktop\c homework codes\kruskal_algorithm\graph.h
+	<stdio.h>
+	<stdlib.h>
+
+1589643035 source:c:\users\filip\desktop\c homework codes\kruskal_algorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.c"
+	"graph.h"
+	<time.h>
+
+1587399050 c:\users\filip\desktop\c homework codes\kruskal_algorithm\graph.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+
+1590063234 source:c:\users\filip\desktop\kruskal_algorithm\graph.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+	<time.h>
+
+1590062877 c:\users\filip\desktop\kruskal_algorithm\graph.h
+	<stdio.h>
+	<stdlib.h>
+
+1590063834 source:c:\users\filip\desktop\kruskal_algorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+	<time.h>
+
+1590057798 c:\users\filip\desktop\kruskal_algorithm\graph.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+	<time.h>
+
+1590076875 source:c:\users\filip\desktop\c homework codes\kruskal_algorithm_final\graph.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+	<time.h>
+
+1590076875 c:\users\filip\desktop\c homework codes\kruskal_algorithm_final\graph.h
+	<stdio.h>
+	<stdlib.h>
+
+1590078360 source:c:\users\filip\desktop\c homework codes\kruskal_algorithm_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+	<time.h>
+

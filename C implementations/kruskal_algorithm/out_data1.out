@@ -1,0 +1,185 @@
+
+ Muchiile si costurile aferente acestora: 
+
+muchie: {5 <-> 39} -> cost: 26 
+muchie: {44 <-> 11} -> cost: 7 
+muchie: {31 <-> 39} -> cost: 2 
+muchie: {1 <-> 4} -> cost: 10 
+muchie: {34 <-> 34} -> cost: 18 
+muchie: {2 <-> 36} -> cost: 15 
+muchie: {12 <-> 22} -> cost: 9 
+muchie: {3 <-> 18} -> cost: 20 
+muchie: {3 <-> 10} -> cost: 3 
+muchie: {4 <-> 40} -> cost: 25 
+muchie: {16 <-> 33} -> cost: 19 
+muchie: {5 <-> 3} -> cost: 26 
+muchie: {6 <-> 5} -> cost: 11 
+muchie: {15 <-> 21} -> cost: 6 
+muchie: {8 <-> 5} -> cost: 27 
+muchie: {6 <-> 1} -> cost: 27 
+muchie: {9 <-> 31} -> cost: 16 
+muchie: {39 <-> 1} -> cost: 21 
+muchie: {10 <-> 34} -> cost: 6 
+muchie: {11 <-> 24} -> cost: 17 
+muchie: {43 <-> 7} -> cost: 25 
+muchie: {12 <-> 35} -> cost: 5 
+muchie: {21 <-> 20} -> cost: 25 
+muchie: {35 <-> 38} -> cost: 26 
+muchie: {13 <-> 15} -> cost: 8 
+muchie: {37 <-> 12} -> cost: 26 
+muchie: {18 <-> 31} -> cost: 18 
+muchie: {15 <-> 1} -> cost: 28 
+muchie: {18 <-> 45} -> cost: 7 
+muchie: {15 <-> 8} -> cost: 2 
+muchie: {29 <-> 13} -> cost: 11 
+muchie: {17 <-> 14} -> cost: 29 
+muchie: {29 <-> 31} -> cost: 29 
+muchie: {35 <-> 5} -> cost: 18 
+muchie: {18 <-> 18} -> cost: 16 
+muchie: {20 <-> 25} -> cost: 13 
+muchie: {27 <-> 35} -> cost: 8 
+muchie: {19 <-> 40} -> cost: 21 
+muchie: {34 <-> 32} -> cost: 17 
+muchie: {19 <-> 36} -> cost: 25 
+muchie: {20 <-> 26} -> cost: 5 
+muchie: {21 <-> 12} -> cost: 3 
+muchie: {21 <-> 4} -> cost: 14 
+muchie: {36 <-> 17} -> cost: 10 
+muchie: {26 <-> 35} -> cost: 4 
+muchie: {12 <-> 36} -> cost: 0 
+muchie: {23 <-> 4} -> cost: 12 
+muchie: {24 <-> 1} -> cost: 23 
+muchie: {40 <-> 12} -> cost: 11 
+muchie: {19 <-> 34} -> cost: 17 
+
+ Arborele de acoperire minima are urmatoarele muchii: 
+
+muchie: {12 <-> 36} -> cost: 0
+
+ Cost acoperire minima = 0 
+muchie: {15 <-> 8} -> cost: 2
+
+ Cost acoperire minima = 2 
+muchie: {31 <-> 39} -> cost: 2
+
+ Cost acoperire minima = 4 
+muchie: {21 <-> 12} -> cost: 3
+
+ Cost acoperire minima = 7 
+muchie: {3 <-> 10} -> cost: 3
+
+ Cost acoperire minima = 10 
+muchie: {26 <-> 35} -> cost: 4
+
+ Cost acoperire minima = 14 
+muchie: {20 <-> 26} -> cost: 5
+
+ Cost acoperire minima = 19 
+muchie: {12 <-> 35} -> cost: 5
+
+ Cost acoperire minima = 24 
+muchie: {15 <-> 21} -> cost: 6
+
+ Cost acoperire minima = 30 
+muchie: {10 <-> 34} -> cost: 6
+
+ Cost acoperire minima = 36 
+muchie: {18 <-> 45} -> cost: 7
+
+ Cost acoperire minima = 43 
+muchie: {44 <-> 11} -> cost: 7
+
+ Cost acoperire minima = 50 
+muchie: {13 <-> 15} -> cost: 8
+
+ Cost acoperire minima = 58 
+muchie: {27 <-> 35} -> cost: 8
+
+ Cost acoperire minima = 66 
+muchie: {12 <-> 22} -> cost: 9
+
+ Cost acoperire minima = 75 
+muchie: {1 <-> 4} -> cost: 10
+
+ Cost acoperire minima = 85 
+muchie: {36 <-> 17} -> cost: 10
+
+ Cost acoperire minima = 95 
+muchie: {6 <-> 5} -> cost: 11
+
+ Cost acoperire minima = 106 
+muchie: {29 <-> 13} -> cost: 11
+
+ Cost acoperire minima = 117 
+muchie: {40 <-> 12} -> cost: 11
+
+ Cost acoperire minima = 128 
+muchie: {23 <-> 4} -> cost: 12
+
+ Cost acoperire minima = 140 
+muchie: {20 <-> 25} -> cost: 13
+
+ Cost acoperire minima = 153 
+muchie: {21 <-> 4} -> cost: 14
+
+ Cost acoperire minima = 167 
+muchie: {2 <-> 36} -> cost: 15
+
+ Cost acoperire minima = 182 
+muchie: {9 <-> 31} -> cost: 16
+
+ Cost acoperire minima = 198 
+
+ Cost acoperire minima = 198 
+muchie: {11 <-> 24} -> cost: 17
+
+ Cost acoperire minima = 215 
+muchie: {34 <-> 32} -> cost: 17
+
+ Cost acoperire minima = 232 
+muchie: {19 <-> 34} -> cost: 17
+
+ Cost acoperire minima = 249 
+
+ Cost acoperire minima = 249 
+muchie: {35 <-> 5} -> cost: 18
+
+ Cost acoperire minima = 267 
+muchie: {18 <-> 31} -> cost: 18
+
+ Cost acoperire minima = 285 
+muchie: {16 <-> 33} -> cost: 19
+
+ Cost acoperire minima = 304 
+muchie: {3 <-> 18} -> cost: 20
+
+ Cost acoperire minima = 324 
+muchie: {39 <-> 1} -> cost: 21
+
+ Cost acoperire minima = 345 
+muchie: {19 <-> 40} -> cost: 21
+
+ Cost acoperire minima = 366 
+muchie: {24 <-> 1} -> cost: 23
+
+ Cost acoperire minima = 389 
+muchie: {4 <-> 40} -> cost: 25
+
+ Cost acoperire minima = 414 
+
+ Cost acoperire minima = 414 
+
+ Cost acoperire minima = 414 
+muchie: {43 <-> 7} -> cost: 25
+
+ Cost acoperire minima = 439 
+muchie: {35 <-> 38} -> cost: 26
+
+ Cost acoperire minima = 465 
+
+ Cost acoperire minima = 465 
+muchie: {37 <-> 12} -> cost: 26
+
+ Cost acoperire minima = 491 
+
+ Timp:0.000000
