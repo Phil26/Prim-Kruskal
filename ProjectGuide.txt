@@ -1,4 +1,4 @@
-Structura director-ului  "P1" :
+Structura proiectului:
 
 * folder  "c_homework_codes" :  contine implementarile in limbajul C ale celoi doi algoritmi alesi pentru rezolvarea problemei, generatorul de date, precum si datele de intrare si iesire pentru cei doi algortimi (folder "data");
 
