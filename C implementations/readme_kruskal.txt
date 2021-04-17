@@ -1,0 +1,2 @@
+Nu inteleg din ce motive, scrierea in fisiere se realizeaza doar pana la doilea test, urmatoarele fisiere.out fiind identice cu primul.
+Din aceasta cauza, am limitat numarul seturilor de date la 5, intrucat nu am gasit sursa acestei probleme, implicit, rezultatele returnate nu ar fi fost viabile.
